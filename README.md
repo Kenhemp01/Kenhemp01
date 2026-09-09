@@ -6,6 +6,8 @@ I'm a aspiring software developer and project coordinator interested in building
 
 > 🧠 **My goal:** Build technology that is useful, accessible, and enjoyable to interact with.
 
+![](https://komarev.com/ghpvc/?username=Kenhemp01&color=blue)
+
 ---
 
 ## 🛠️ What I Do
