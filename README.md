@@ -46,7 +46,7 @@ I'm primarily interested in **software and web development**, with a focus on cr
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=flat&logo=csharp" alt="C#"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
