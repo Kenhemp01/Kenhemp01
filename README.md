@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer | 🎮 Web Developer  | 📊 Project Manager | 🚀 Always Learning
 
-I'm a aspiring software developer and project coordinator interested in building interactive, user-friendly applications that are both functional and fun. I enjoy working across the development process — from planning and designing an idea to coding, testing, debugging, and bringing the final product to life.
+I'm a aspiring software developer and project coordinator interested in building interactive, user-friendly applications that are both functional and fun. 
 
 > 🧠 **My goal:** Build technology that is useful, accessible, and enjoyable to interact with.
 
@@ -22,8 +22,6 @@ I'm primarily interested in **software and web development**, with a focus on cr
 - 📋 Project Planning & Coordination
 - 🎨 User Interface Design
 - 🔧 Software Development & Maintenance
-
-I enjoy taking an idea from **"What if we built this?"** to **"It actually works!"** 🚀
 
 ---
 
@@ -123,8 +121,6 @@ I'd especially love to work on:
 - 🎨 UI/UX-focused projects
 
 If you have an interesting project idea, feel free to reach out!
-
-**I'm always open to learning something new.** 🌱
 
 ---
 
