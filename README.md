@@ -8,6 +8,8 @@ I'm a aspiring software developer and project coordinator interested in building
 
 ![](https://komarev.com/ghpvc/?username=Kenhemp01&color=blue)
 
+[![GitHub Resume](https://github-resume-6piy.onrender.com/badge/Kenhemp01)](https://github-resume-6piy.onrender.com/resume/Kenhemp01)
+
 ---
 
 ## 🛠️ What I Do
