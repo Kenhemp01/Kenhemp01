@@ -10,7 +10,6 @@ I'm a aspiring software developer and project coordinator interested in building
 
 [![GitHub Resume](https://github-resume-6piy.onrender.com/badge/Kenhemp01)](https://github-resume-6piy.onrender.com/resume/Kenhemp01)
 
-[![GitHub Resume](https://github-resume-6piy.onrender.com/badge/emilk)](https://github-resume-6piy.onrender.com/resume/emilk)
 
 ---
 
