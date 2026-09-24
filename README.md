@@ -11,7 +11,13 @@ I'm a aspiring software developer and project coordinator interested in building
 [![GitHub Resume](https://github-resume-6piy.onrender.com/badge/Kenhemp01)](https://github-resume-6piy.onrender.com/resume/Kenhemp01)
 
 
-[![GitHub Resume](https://github-resume-6piy.onrender.com/badge/myhloli)](https://github-resume-6piy.onrender.com/resume/myhloli)
+[![GitHub Resume](https://github-resume-6piy.onrender.com/badge/TooTallNate)](https://github-resume-6piy.onrender.com/resume/TooTallNate)
+
+[![GitHub Resume](https://github-resume-6piy.onrender.com/badge/r7kamura)](https://github-resume-6piy.onrender.com/resume/r7kamura)
+
+[![GitHub Resume](https://github-resume-6piy.onrender.com/badge/contra)](https://github-resume-6piy.onrender.com/resume/contra)
+
+
 
 ---
 
