@@ -67,37 +67,14 @@ I'm primarily interested in **software and web development**, with a focus on cr
 
 # 🎮 What I'm Currently Working On
 
-## 🧠 Color Blitz
+## 📄 GitHub Resume Generator 
 
-I'm currently developing **Color Blitz**, a color-based memory game designed for children ages **5–10**.
-
-The game is inspired by Simon Says and challenges players to memorize and repeat increasingly long sequences of colors.
-
-### 🔴🟢🟡🔵 Easy Mode
-
-Uses four colors to provide a simpler introduction to the game.
-
-### 🟠🟣 Hard Mode
-
-Uses six colors for players looking for a greater challenge.
-
-### 🔊 Audio-Assisted Gameplay
-
-Each color has its own audio cue that says the color's name.
-
-This feature is designed to help younger players associate the **visual color with its name** while reinforcing the memory component of the game.
+A web application that uses the GitHub API to automatically generate a resume based on a user’s GitHub profile and repositories. The application analyzes project information, programming languages, GitHub activity, and other profile data to create a resume-style webpage that can be embedded directly into a GitHub README using a clickable badge.
 
 ### 🧩 What's Next?
 
-Color Blitz is the **first game in a larger web-based children's gaming project**.
+Continue working on Color Blitz and relating projects.
 
-The next planned game is:
-
-### 🃏 Matching Game
-
-A memory-based matching game where players will flip cards and attempt to find matching pairs.
-
-The long-term goal is to bring multiple games together into one cohesive, kid-friendly gaming website. 🎮✨
 
 ---
 
@@ -106,7 +83,7 @@ The long-term goal is to bring multiple games together into one cohesive, kid-fr
 | Project | Description | Technologies |
 |---|---|---|
 | 🎮 [Color Blitz](https://github.com/Kenhemp01/color-blitz) | Color-based memory game for children ages 5–10 | HTML • CSS • JavaScript |
-| 🧮 [Calculator Project](https://github.com/Kenhemp01/calculator-project) | Calculator application | HTML • CSS • JavaScript |
+| 📄 [GitHub Resume Generator](https://github.com/Kenhemp01/github-resume-generator) | Resume generator for GitHub README | HTML • CSS • JavaScript • Node.js |
 | 💼 [My Portfolio](https://github.com/Kenhemp01/kennedyhemphillportfolio) | Personal portfolio website | HTML |
 | 🖌️ [GIMP](https://github.com/Kenhemp01/gimp) | GIMP development/project work | C |
 
@@ -130,7 +107,7 @@ If you have an interesting project idea, feel free to reach out!
 
 # 📈 Currently Learning
 
-There's always something new to learn in tech! 🤓
+There's always something new to learn in tech! 
 
 ```text
 Web Development       ███████████████░░░  Growing
